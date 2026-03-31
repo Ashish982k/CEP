@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1774974489394,
+      "tag": "0000_pale_rhodey",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1774978213545,
+      "tag": "0001_nebulous_bastion",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1774980292004,
+      "tag": "0002_bumpy_sharon_ventura",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1774981370425,
+      "tag": "0003_sleepy_mister_sinister",
+      "breakpoints": true
+    }
+  ]
+}
