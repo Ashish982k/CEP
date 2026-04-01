@@ -8,6 +8,7 @@ Guidance for agentic coding agents operating in this repository.
 - Language: TypeScript.
 - Server source directory: `src/` (configured in `nitro.config.ts`).
 - API routes: `src/api/**`.
+- Normal routes: `src/routes/**`. They are specially identified by Nitro as normal routes under the base URL
 - Auth: Better Auth with Drizzle adapter and Google OAuth.
 - DB: Drizzle ORM + libsql (`@libsql/client`) using SQLite dialect.
 - Migration style: code-based schema in `db/schema.ts` + generated SQL in `db/migrations`.
